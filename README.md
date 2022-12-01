@@ -10,3 +10,10 @@
 ![image](https://user-images.githubusercontent.com/56022576/205094960-0ab60fb7-3cc9-4cd5-90c0-ec2da949608c.png)
 
 Есть возможность отправлять любые файлы.
+
+При отправке файла у получателя появляется окно для возможности сохранения файла:
+
+![image](https://user-images.githubusercontent.com/56022576/205096822-ea4e52c3-902d-470b-9bbf-fb44a8da7bb6.png)
+
+![image](https://user-images.githubusercontent.com/56022576/205096907-6ac8b9ed-40fb-4376-8693-d830041da94c.png)
+
